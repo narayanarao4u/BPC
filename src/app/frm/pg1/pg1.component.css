@@ -1,0 +1,14 @@
+.grid-2{
+    display: grid;
+    grid-template-columns: auto auto
+}
+.tab-1 {
+    margin-left: 20px;
+}
+.appHead{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.text-bold{
+    font-weight: bold;
+}
